@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import { TestNode } from './test_node';
 import type { XMLElement } from 'xmlbuilder';
 
